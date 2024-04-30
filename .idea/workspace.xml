@@ -7,6 +7,7 @@
     <list default="true" id="150886e4-7bb9-41ae-8880-fc253e274468" name="Changes" comment="feat: Add Configuration URL and HTML Templates">
       <change afterPath="$PROJECT_DIR$/myapp/templates/todos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
@@ -97,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714373610455</updated>
       <workItem from="1714373612475" duration="3475000" />
-      <workItem from="1714447860207" duration="2197000" />
+      <workItem from="1714447860207" duration="2499000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
